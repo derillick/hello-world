@@ -2,5 +2,5 @@
 My First repository
 
 hi guys
-I'm Tangkat from Nigeria. I'm a software developer and a grahics desimer.
-I'm also a graduate of electrical electronics engineering.EAD
+My name is Tangkat from Nigeria. I'm a software developer and a graphics designer.
+I am a graduate of electrical electronics engineering and a software enthusiast on a journey to acquire software developement skills.
